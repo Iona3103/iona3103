@@ -1,0 +1,17 @@
+body{
+
+    background-color: rgb(243, 8, 110);
+    display: flex;
+    gap: 20Px;
+    
+}
+.im{
+    width: 200px;
+    
+
+}
+main{
+    display: flex;
+    
+    gap: 20Px;
+}
